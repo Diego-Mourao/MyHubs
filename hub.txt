@@ -1,0 +1,9 @@
+hub DiegoMourao_BRD4ChIPshortLabel Huh7 Empty BRD4longLabel BRD4 ChIPseq on Huh7 Empty vector cellsuseOneFile onemail dmourao@rockefeller.edu
+
+genome hg19
+
+track Huh7_Empty_1_BRD4shortLabel BRD4 ChIPseqlongLabel BRD4 ChIPseq on Huh7 cells expressing an empty vectortype bigWig
+bigDataURL https://figshare.com/s/50a07c32463542f95c95track Huh7_Empty_2_BRD4shortLabel BRD4 ChIPseqlongLabel BRD4 ChIPseq on Huh7 cells expressing an empty vectortype bigWig
+bigDataURL https://figshare.com/s/4a9200be9e34b8e5c84f
+
+
